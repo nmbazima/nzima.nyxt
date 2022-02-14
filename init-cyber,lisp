@@ -32,3 +32,4 @@
 (load-extension freestance-handler)
 (asdf:load-system :nx-fruit)
 ;;(asdf:load-system :demeter)
+;;https://github.com/Anomalocaridid/dotfiles/blob/3087148649dcf702d491fdf45d4d855da44c913d/.config/nyxt/init.lisp
